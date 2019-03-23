@@ -1,0 +1,15 @@
+[submodule "CluTec.Core.2.0"]
+	path = CluTec.Core.2.0
+	url = https://github.com/dodeka12/module.CluTec.Core.git
+[submodule "CluTec.Cuda.2.0"]
+	path = CluTec.Cuda.2.0
+	url = https://github.com/dodeka12/module.CluTec.Cuda.git
+[submodule "CluTec.Viz.8.0"]
+	path = CluTec.Viz.8.0
+	url = https://github.com/dodeka12/module.CluTec.Viz.git
+[submodule "_global.2.0"]
+	path = _global.2.0
+	url = https://github.com/dodeka12/_global.git
+[submodule "Bin.CluViz.Ext.8.0"]
+	path = Bin.CluViz.Ext.8.0
+	url = https://github.com/dodeka12/binary.CluViz.Ext.git
